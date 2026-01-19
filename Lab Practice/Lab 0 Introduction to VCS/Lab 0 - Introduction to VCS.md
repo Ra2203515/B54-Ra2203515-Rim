@@ -2,7 +2,7 @@
 
 ## Lab 0: Introduction to Version Control
 
-A hands-on introduction to version control using GitHub Desktop.
+A hands-on introduction to version control using GitHub Desktop
 
 ---
 
